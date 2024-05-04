@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\bin\Debug\net8.0\AT2first.exe
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\bin\Debug\net8.0\AT2first.deps.json
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\bin\Debug\net8.0\AT2first.runtimeconfig.json
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\bin\Debug\net8.0\AT2first.dll
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\bin\Debug\net8.0\AT2first.pdb
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.AssemblyInfo.cs
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.dll
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\refint\AT2first.dll
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.pdb
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\AT2first.genruntimeconfig.cache
+C:\Users\hp\Desktop\AT2\AT2first\AT2first\obj\Debug\net8.0\ref\AT2first.dll
